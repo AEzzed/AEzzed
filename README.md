@@ -1,11 +1,7 @@
-<h1 align="center">AEzzed ⚡</h1>
+<h1 align="center">Hi 👋, I'm Artyom ⚡</h1>
 
 <p align="center">
-  <b>Frontend & Interface Developer • Технологии. Чистый код. Контроль.</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Дизайн+в+движении.;Контроль+на+пиксельном+уровне.;Код,+который+работает+и+выглядит+отлично." alt="Typing SVG" />
+  <b>Web developer focused on clean code, fast performance, and great user experience.</b>
 </p>
 
 ---
