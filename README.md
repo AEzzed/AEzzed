@@ -1,50 +1,49 @@
-<h1 align="center">Привет! Я Артём 👋</h1>
+<h1 align="center">Артём ⚡</h1>
 
 <p align="center">
-  Frontend-разработчик • React • TypeScript • Next.js • UI/UX
+  <b>Frontend Engineer | UI/UX Perfectionist | Code Artisan</b>
 </p>
-
----
-
-### 🧠 Немного обо мне
-
-- 🧑‍💻 Frontend-разработчик
-- ⚛️ Люблю создавать быстрые, адаптивные и удобные интерфейсы
-- 🚀 Умею работать с архитектурой, анимациями и состоянием
-
----
-
-### 🛠 Мой стек
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zustand-000000?style=for-the-badge&logo=zotero&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Framer_Motion-EF476F?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AEzzed&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEzzed&layout=compact&theme=radical" height="165" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Clean.+Fast.+Elegant.;Interfaces+that+feel+right.;Code+that+speaks+for+itself." alt="Typing SVG" />
 </p>
 
 ---
 
-### 📫 Связь
+### 🛠️ Tech Toolbox
 
-<p>
-  <a href="https://t.me/artyemelianov"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:artyemelianovv@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,scss,framer,vite,figma,git,github" />
 </p>
 
 ---
 
-<h3 align="center">Спасибо, что заглянули! 🙌</h3>
+### 📈 My GitHub at a Glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AEzzed&show_icons=true&theme=tokyonight&hide=issues&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AEzzed&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEzzed&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+</p>
+
+---
+
+### 🧿 Quote I Code By
+
+> “Simplicity is the soul of efficiency.” — Austin Freeman
+
+---
+
+<p align="center">
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
