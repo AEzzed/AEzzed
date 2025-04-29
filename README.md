@@ -9,7 +9,15 @@
 ### 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,zustand,tailwind,scss,framer,vite,figma,git,github,php,laravel,mysql" />
+  <i class="fa fa-react" style="font-size: 40px; color: #61DAFB;"></i>
+  <i class="fa fa-js-square" style="font-size: 40px; color: #F7DF1E;"></i>
+  <i class="fa fa-css3-alt" style="font-size: 40px; color: #2965F1;"></i>
+  <i class="fa fa-cogs" style="font-size: 40px; color: #F4A300;"></i>
+  <i class="fa fa-sass" style="font-size: 40px; color: #CC6699;"></i>
+  <i class="fa fa-vuejs" style="font-size: 40px; color: #4FC08D;"></i>
+  <i class="fa fa-github" style="font-size: 40px; color: #181717;"></i>
+  <i class="fa fa-php" style="font-size: 40px; color: #777BB4;"></i>
+  <i class="fa fa-database" style="font-size: 40px; color: #4479A1;"></i>
 </p>
 
 ---
