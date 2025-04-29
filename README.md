@@ -1,11 +1,11 @@
-<h1 align="center">Артём ⚡</h1>
+<h1 align="center">AEzzed ⚡</h1>
 
 <p align="center">
-  <b>Frontend Engineer | UI/UX Perfectionist | Code Artisan</b>
+  <b>React. TypeScript. Анимации. Стиль. Скорость.</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Clean.+Fast.+Elegant.;Interfaces+that+feel+right.;Code+that+speaks+for+itself." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Интерфейсы,+которые+чувствуются.;Код,+который+говорит+сам+за+себя.;AEzzed+was+here." alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ---
 
-### 📈 My GitHub at a Glance
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AEzzed&show_icons=true&theme=tokyonight&hide=issues&hide_border=true&border_radius=12" width="48%" />
@@ -28,12 +28,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEzzed&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
 </p>
-
----
-
-### 🧿 Quote I Code By
-
-> “Simplicity is the soul of efficiency.” — Austin Freeman
 
 ---
 
