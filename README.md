@@ -9,15 +9,20 @@
 ### 🛠️ Tech Toolbox
 
 <p align="center">
-  <i class="fa fa-react" style="font-size: 40px; color: #61DAFB;"></i>
-  <i class="fa fa-js-square" style="font-size: 40px; color: #F7DF1E;"></i>
-  <i class="fa fa-css3-alt" style="font-size: 40px; color: #2965F1;"></i>
-  <i class="fa fa-cogs" style="font-size: 40px; color: #F4A300;"></i>
-  <i class="fa fa-sass" style="font-size: 40px; color: #CC6699;"></i>
-  <i class="fa fa-vuejs" style="font-size: 40px; color: #4FC08D;"></i>
-  <i class="fa fa-github" style="font-size: 40px; color: #181717;"></i>
-  <i class="fa fa-php" style="font-size: 40px; color: #777BB4;"></i>
-  <i class="fa fa-database" style="font-size: 40px; color: #4479A1;"></i>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0096FF?style=flat-square&logo=framer&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" width="40" height="40"/>
 </p>
 
 ---
