@@ -1,11 +1,11 @@
 <h1 align="center">AEzzed ⚡</h1>
 
 <p align="center">
-  <b>React. TypeScript. Анимации. Стиль. Скорость.</b>
+  <b>Frontend & Interface Developer • Технологии. Чистый код. Контроль.</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Интерфейсы,+которые+чувствуются.;Код,+который+говорит+сам+за+себя.;AEzzed+was+here." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Дизайн+в+движении.;Контроль+на+пиксельном+уровне.;Код,+который+работает+и+выглядит+отлично." alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ### 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,scss,framer,vite,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,zustand,tailwind,scss,framer,vite,figma,git,github,php,laravel,mysql" />
 </p>
 
 ---
